@@ -1,5 +1,5 @@
-node_modules
-success.log
-error.log
-sr-success.log
-sr-error.log
+/node_modules
+/success.log
+/error.log
+/sr-success.log
+/sr-error.log
